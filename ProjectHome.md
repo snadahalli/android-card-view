@@ -1,0 +1,1 @@
+Library aims to provide View components to create various card games for Android.
